@@ -1,0 +1,199 @@
+* {
+  padding: 5;
+  margin: 6;
+}
+.heading {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(13, 13, 14);
+}
+.heading2 {
+  display: flex;
+}
+.ritu {
+  color: rgba(153, 51, 51, 0.856);
+}
+.home {
+  padding: 2px;
+  margin: 20px;
+  color: blue;
+}
+.about {
+  padding: 2px;
+  margin: 20px;
+  color: blue;
+}
+.skills {
+  padding: 2px;
+  margin: 20px;
+  color: blue;
+}
+.projects {
+  padding: 2px;
+  margin: 20px;
+  color: blue;
+}
+.education {
+  padding: 2px;
+  margin: 20px;
+  color: blue;
+}
+.contect {
+  padding: 2px;
+  margin: 20px;
+  color: blue;
+}
+.about1 {
+  text-align: center;
+  text-shadow: 2px 2px rgb(13, 13, 14);
+  font-size: 40px;
+  padding: 80px;
+  margin: 5px;
+  height: 10px;
+  text-decoration: underline;
+}
+.about2 {
+  text-align: center;
+  padding: 100px;
+  margin: 10px;
+  color: rgb(15, 14, 15);
+  border-top: 20px;
+  border-style: inset;
+}
+.skills1 {
+  font-size: 20px;
+}
+.java2 {
+  font-size: 30px;
+  text-shadow: 2px 2px #aac45d;
+  color: blue;
+}
+.css2 {
+  font-size: 30px;
+  text-shadow: 2px 2px #aac45d;
+  color: blue;
+}
+.html2 {
+  font-size: 30px;
+  text-shadow: 2px 2px #aac45d;
+  color: blue;
+}
+.javascript2 {
+  font-size: 30px;
+  text-shadow: 2px 2px #aac45d;
+  color: blue;
+}
+.skills2 {
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  text-shadow: 2px 2px #141010;
+  font-size: 50px;
+  border-top: 20px;
+  text-decoration-color: black;
+  text-decoration: underline;
+  background-color: rgb(248, 113, 64);
+}
+.education2 {
+  color: rgb(6, 6, 29);
+  background-color: rgb(243, 117, 71);
+  height: 130px;
+  padding: 10px;
+  margin: 10spx;
+  text-align: center;
+  text-shadow: 2px 2px;
+  font-size: 50px;
+  text-decoration: underline;
+}
+.education3 {
+  font-size: 40px;
+
+  padding: 5px;
+  margin: 90px;
+  width: 500px;
+  border: rgb(247, 109, 109) 40px double;
+}
+.line {
+  font-size: 100px;
+  padding: 0;
+  margin: 0;
+}
+.intermediate3 {
+  font-size: 40px;
+  padding: 5px;
+  margin: 90px;
+  width: 500px;
+  border: rgb(247, 109, 109) 40px double;
+}
+.btech {
+  font-size: 40px;
+  padding: 5px;
+  margin: 90px;
+  width: 500px;
+  border: rgb(247, 109, 109) 40px double;
+}
+.education4 {
+  display: flex;
+}
+.keshav {
+  text-decoration: underline;
+}
+.college1 {
+  text-decoration: underline;
+}
+.btech {
+  text-decoration: underline;
+}
+.projects2 {
+  font-size: 50px;
+  text-align: center;
+  background-color: rgb(236, 110, 65);
+  padding: 10px;
+  margin: 10px;
+  text-shadow: 2px 2px black;
+}
+.bank {
+  display: flex;
+  font-size: 50px;
+}
+.port1 {
+  display: flex;
+  font-size: 50px;
+}
+.intro {
+  font-size: 40px;
+  padding: 5px;
+  margin: 90px;
+  width: 1500px;
+  border: rgb(37, 32, 32) 20px dotted;
+  color: rgb(55, 129, 158);
+}
+.port3 {
+  font-size: 40px;
+  padding: 5px;
+  margin: 90px;
+  width: 1500px;
+  border: rgb(37, 32, 32) 20px dotted;
+  color: rgb(55, 117, 141);
+}
+.banking {
+  margin-left: 10px;
+}
+.contact3 {
+  text-align: center;
+  font-size: 50px;
+  margin: 0;
+  padding: 0;
+  height: 220px;
+  background-color: rgb(230, 106, 62);
+}
+.facebook {
+  padding: 25px;
+}
+.mail3 {
+  padding: 25px;
+  font-size: 40px;
+}
+.linkdin {
+  padding: 25px;
+}
